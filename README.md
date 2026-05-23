@@ -27,7 +27,6 @@
 🌱 Working to improve digital literacy in rural communities  
 📚 Interested in Educational Technology Integration & E-Learning Systems  
 ⚡ Expertise in C#, JavaScript, PHP, and Modern Web Technologies  
-🏫 Building school management and result portal systems  
 📍 Shangla, Khyber Pakhtunkhwa, Pakistan  
 
 ---
