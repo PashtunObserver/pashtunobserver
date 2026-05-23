@@ -35,10 +35,6 @@
 
 <div align="center">
 
-<a href="https://www.pashtomedium.com/p/rashid-ahmad.html" target="_blank">
-<img src="https://img.shields.io/badge/Website-PashtoMedium-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
 <a href="https://facebook.com/PakhtunObserver" target="_blank">
 <img src="https://img.shields.io/badge/Facebook-@PakhtunObserver-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
