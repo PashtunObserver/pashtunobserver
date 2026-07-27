@@ -1,221 +1,305 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Rashid Ahmad
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ║  RASHID AHMAD — GITHUB PROFILE README                       ║ -->
+<!-- ║  Username: PashtunObserver                                  ║ -->
+<!-- ║  Designed for maximum GitHub compatibility                   ║ -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<div align="center">
+<!-- Animated Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Hi%20There!%20%F0%9F%91%8B&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=I'm%20Rashid%20Ahmad%20—%20Gold%20Medalist%20%7C%20Developer%20%7C%20Educator&descSize=18&descAlignY=55" />
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=🥇+Gold+Medalist+in+Computer+Science;💻+SST+(IT)+at+KP+Education+Department;🚀+Software+Developer+%7C+Educational+Technologist;🌱+Promoting+Digital+Literacy+in+Rural+Areas;⚡+C%23+%7C+JavaScript+%7C+PHP+Developer" alt="Typing SVG" />
+<!-- Typing Animation -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=850&lines=🥇+Gold+Medalist+in+BS+Computer+Science;💻+SST+(IT)+at+KP+Education+Department;🚀+Software+Developer+%7C+Educational+Technologist;🌱+Promoting+Digital+Literacy+in+Rural+Areas;⚡+C%23+%7C+JavaScript+%7C+PHP+Developer;🔥+Building+the+Future+of+EdTech;✨+Passionate+About+Clean+Code+%26+Design" alt="Typing SVG" />
+  </a>
+</p>
 
-</div>
+<!-- Social Badges Row -->
+<p align="center">
+  <a href="https://facebook.com/PakhtunObserver" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/pashtunobserver" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://x.com/PashtunObserver" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://github.com/PashtunObserver" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
----
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
 
-<div align="center">
+<!-- About Me Section -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" />
+  <b>💫 About Me</b>
+</h2>
 
-<img src="https://img.shields.io/badge/Focus-Educational%20Technology-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Role-SST%20(IT)-green?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Location-KPK%2C%20Pakistan-red?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
+<table align="center">
+  <tr>
+    <td valign="top" width="50%">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 10px;" />
+    </td>
+    <td valign="top" width="50%">
+      <ul>
+        <li>🥇 <b>Gold Medalist</b> in BS Computer Science from <b>University of Swat</b></li>
+        <li>💻 <b>Secondary School Teacher (IT)</b> at KP Education Department</li>
+        <li>🚀 Passionate <b>Software Developer</b> & <b>Educational Technologist</b></li>
+        <li>🌱 Working to improve <b>Digital Literacy</b> in rural communities</li>
+        <li>📚 Expert in <b>EdTech Integration</b> & <b>E-Learning Systems</b></li>
+        <li>⚡ Mastering <b>C#</b> | <b>JavaScript</b> | <b>PHP</b> | Modern Web Tech</li>
+        <li>📍 Based in <b>Shangla, Khyber Pakhtunkhwa, Pakistan</b></li>
+        <li>🎯 Currently exploring <b>AI in Education</b> & <b>Cloud Architecture</b></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-</div>
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
 
----
+<!-- Tech Stack Section -->
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32" />
+  <b>💻 Tech Stack</b>
+</h2>
 
-# 💫 About Me
+<h3 align="center">🚀 Languages & Frameworks</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,js,ts,php,html,css,nodejs,express,bootstrap,jquery,cs,dotnet" />
+</p>
 
-🥇 Gold Medalist in BS Computer Science from University of Swat  
-💻 Secondary School Teacher (IT) at KP Education Department  
-🚀 Passionate Software Developer and Educational Technologist  
-🌱 Working to improve digital literacy in rural communities  
-📚 Interested in Educational Technology Integration & E-Learning Systems  
-⚡ Expertise in C#, JavaScript, PHP, and Modern Web Technologies  
-📍 Shangla, Khyber Pakhtunkhwa, Pakistan  
+<h3 align="center">☁️ Cloud, DevOps & Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,heroku,jenkins,git,github,gitlab,bitbucket,githubactions,docker,kubernetes,vscode,postman" />
+</p>
 
----
+<h3 align="center">🗄️ Databases & Platforms</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis,firebase" />
+</p>
 
-# 🌐 Socials
-
-<div align="center">
-
-<a href="https://facebook.com/PakhtunObserver" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-@PakhtunObserver-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/pashtunobserver" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-@pashtunobserver-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://x.com/PashtunObserver" target="_blank">
-<img src="https://img.shields.io/badge/X-@PashtunObserver-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# 💻 Tech Stack
-
-<div align="center">
-
-## 🚀 Languages & Frameworks
-
-<img src="https://skillicons.dev/icons?i=c,java,js,ts,php,html,css,nodejs,express,bootstrap,jquery" />
-
----
-
-## ☁️ Cloud, DevOps & Tools
-
-<img src="https://skillicons.dev/icons?i=aws,heroku,jenkins,git,github,gitlab,bitbucket,githubactions" />
-
----
-
-## 🗄️ Databases & Platforms
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres" />
-
-</div>
-
----
-
-# 🛠️ Technologies I Work With
+<!-- Tech Stack Details -->
+<details align="center">
+  <summary><b>🛠️ Click to see detailed technologies I work with</b></summary>
+  <br/>
 
 ```yaml
-Programming Languages:
-  - C
-  - Java
-  - JavaScript
-  - TypeScript
-  - PHP
-  - C#
+🎨 Programming Languages:
+  - C          # ⚡ Systems Programming
+  - Java       # ☕ Enterprise Applications  
+  - JavaScript # 🌐 Web Development
+  - TypeScript # 🔒 Type-Safe JS
+  - PHP        # 🐘 Server-Side Scripting
+  - C#         # 🎯 .NET Ecosystem
 
-Frontend Development:
-  - HTML5
-  - CSS3
-  - Bootstrap
-  - jQuery
+🖥️ Frontend Development:
+  - HTML5      # 📄 Semantic Markup
+  - CSS3       # 🎨 Styling & Animations
+  - Bootstrap  # 📱 Responsive Framework
+  - jQuery     # ⚡ DOM Manipulation
+  - React      # ⚛️ UI Library
 
-Backend Development:
-  - NodeJS
-  - Express.js
-  - Apache Tomcat
-  - Hibernate
+⚙️ Backend Development:
+  - NodeJS     # 🟢 JavaScript Runtime
+  - Express.js # 🚀 Web Framework
+  - Apache Tomcat # 🐱 Java Servlet Container
+  - Hibernate  # 🔗 ORM Framework
+  - ASP.NET    # 🎯 Microsoft Framework
 
-Database:
-  - MySQL
-  - PostgreSQL
+🗄️ Database:
+  - MySQL      # 🐬 Relational Database
+  - PostgreSQL # 🐘 Advanced SQL Database
+  - MongoDB    # 🍃 NoSQL Database
+  - SQLite     # 📱 Lightweight Database
 
-Cloud & DevOps:
-  - AWS
-  - Heroku
-  - Jenkins
-  - GitHub Actions
-  - GitLab CI
+☁️ Cloud & DevOps:
+  - AWS        # ☁️ Cloud Computing
+  - Heroku     # 🟣 Platform as a Service
+  - Jenkins    # 🔧 CI/CD Automation
+  - GitHub Actions # 🚀 Automated Workflows
+  - GitLab CI  # 🦊 Continuous Integration
+  - Docker     # 🐳 Containerization
+  - Kubernetes # ☸️ Container Orchestration
 
-Version Control:
-  - Git
-  - GitHub
-  - GitLab
-  - Bitbucket
+📦 Version Control:
+  - Git        # 🔀 Distributed VCS
+  - GitHub     # 🐙 Code Hosting
+  - GitLab     # 🦊 DevOps Platform
+  - Bitbucket  # 🪣 Atlassian Git Solution
 ```
 
----
+</details>
 
-# 📊 GitHub Stats
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
 
-<div align="center">
+<!-- GitHub Stats Section -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="35" />
+  <b>📊 GitHub Stats</b>
+</h2>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=PashtunObserver&show_icons=true&theme=radical&hide_border=true&border_radius=15&bg_color=0d1117&title_color=ff6b6b&icon_color=4ecdc4&text_color=c9d1d9" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PashtunObserver&layout=compact&theme=radical&hide_border=true&border_radius=15&bg_color=0d1117&title_color=ff6b6b&text_color=c9d1d9" />
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+<!-- GitHub Streak -->
+<h2 align="center">
+  <b>🔥 GitHub Streak</b>
+</h2>
 
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=PashtunObserver&theme=radical&hide_border=true&border_radius=15&background=0d1117&stroke=ff6b6b&ring=ff6b6b&fire=ff9f43&currStreakNum=4ecdc4&sideNums=c9d1d9&currStreakLabel=ff6b6b&sideLabels=c9d1d9&dates=8b949e" />
+</p>
 
----
+<!-- GitHub Trophies -->
+<h2 align="center">
+  <b>🏆 GitHub Trophies</b>
+</h2>
 
-# 🔥 GitHub Streak
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PashtunObserver&theme=radical&no-frame=true&no-bg=false&margin-w=15&margin-h=15&row=2&column=4" />
+</p>
 
-<div align="center">
+<!-- GitHub Metrics -->
+<h2 align="center">
+  <b>📈 GitHub Metrics</b>
+</h2>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=15"/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PashtunObserver&theme=redical&hide_border=true&bg_color=0d1117&color=ff6b6b&line=4ecdc4&point=ff9f43" />
+</p>
 
-</div>
+<!-- 3D Contribution Graph -->
+<h2 align="center">
+  <b>🌐 3D Contribution Graph</b>
+</h2>
 
----
+<p align="center">
+  <img src="https://github.com/PashtunObserver/PashtunObserver/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+</p>
 
-# 🏆 GitHub Trophies
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
 
-<div align="center">
+<!-- Dev Quote Section -->
+<h2 align="center">
+  <b>✨ Random Dev Quote</b>
+</h2>
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=false&margin-w=10&row=1"/>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
 
-</div>
+<!-- Joke Section -->
+<h2 align="center">
+  <b>😂 Dev Joke</b>
+</h2>
 
----
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" />
+</p>
 
-# 📈 Top Contributed Repo
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
 
-<div align="center">
+<!-- Snake Animation Section -->
+<h2 align="center">
+  <b>🐍 Contribution Snake</b>
+</h2>
 
-<img src="https://github-contributor-stats.vercel.app/api?username=YOUR_USERNAME&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PashtunObserver/PashtunObserver/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PashtunObserver/PashtunObserver/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/PashtunObserver/PashtunObserver/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
-</div>
+<!-- Animated Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
 
----
+<!-- Spotify Section (Optional - Uncomment if you want) -->
+<!--
+<h2 align="center">
+  <b>🎵 Now Playing</b>
+</h2>
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false" />
+</p>
+-->
 
-# 📈 Contribution Graph
+<!-- Connect Section -->
+<h2 align="center">
+  <b>📫 Let's Connect</b>
+</h2>
 
-<div align="center">
+<p align="center">
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/📍_Shangla,_KPK,_Pakistan-ff6b6b?style=for-the-badge&labelColor=0d1117" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/💻_SST_(IT)_—_KP_Education-4ecdc4?style=for-the-badge&labelColor=0d1117" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🌱_EdTech_Enthusiast-ff9f43?style=for-the-badge&labelColor=0d1117" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🚀_Open_for_Collaboration-9b59b6?style=for-the-badge&labelColor=0d1117" />
+      </td>
+    </tr>
+  </table>
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PashtunObserver&label=👀+Profile+Views&color=ff6b6b&style=for-the-badge&labelColor=0d1117" />
+</p>
 
-</div>
+<!-- Animated Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=Thanks%20for%20Visiting!%20🚀&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=65" />
+</p>
 
----
+<p align="center">
+  <b>⭐ Don't forget to star your favorite repositories! ⭐</b>
+</p>
 
-# ✨ Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" alt="Snake animation" />
-
-</div>
-
----
-
-# 📫 Connect With Me
-
-<div align="center">
-
-📍 Shangla, Khyber Pakhtunkhwa, Pakistan  
-💻 SST (IT) — KP Education Department  
-🌱 Educational Technology Enthusiast  
-
-</div>
-
----
-
-# 👀 Profile Views
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🚀 Thanks for Visiting My Profile!
-
-### ⭐ Don't forget to star your favorite repositories ⭐
-
-</div>
+<!-- 
+╔══════════════════════════════════════════════════════════════════╗
+║  🎨 Designed with ❤️ by Rashid Ahmad (PashtunObserver)         ║
+║  🔧 Built for GitHub — 100% Compatible                         ║
+║  📅 Last Updated: July 2026                                    ║
+╚══════════════════════════════════════════════════════════════════╝
+-->
