@@ -1,0 +1,74 @@
+<svg width="1000" height="260" viewBox="0 0 1000 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f0c29">
+        <animate attributeName="stop-color" values="#0f0c29;#24243e;#302b63;#0f0c29" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#302b63">
+        <animate attributeName="stop-color" values="#302b63;#6a11cb;#2575fc;#302b63" dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#24243e">
+        <animate attributeName="stop-color" values="#24243e;#0f0c29;#302b63;#24243e" dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f7ff">
+        <animate attributeName="stop-color" values="#00f7ff;#ff4b6e;#ffd60a;#00f7ff" dur="5s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#ff4b6e">
+        <animate attributeName="stop-color" values="#ff4b6e;#ffd60a;#00f7ff;#ff4b6e" dur="5s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#ffd60a">
+        <animate attributeName="stop-color" values="#ffd60a;#00f7ff;#ff4b6e;#ffd60a" dur="5s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1000" height="260" fill="url(#bgGrad)"/>
+
+  <!-- floating orbs -->
+  <circle cx="80" cy="60" r="14" fill="#00f7ff" opacity="0.5">
+    <animate attributeName="cy" values="60;30;60" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.5;0.9;0.5" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="920" cy="200" r="18" fill="#ff4b6e" opacity="0.5">
+    <animate attributeName="cy" values="200;170;200" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.5;0.9;0.5" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="150" cy="210" r="10" fill="#ffd60a" opacity="0.6">
+    <animate attributeName="cy" values="210;185;210" dur="3.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="850" cy="50" r="12" fill="#00f7ff" opacity="0.5">
+    <animate attributeName="cy" values="50;80;50" dur="4.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="500" cy="30" r="8" fill="#ffffff" opacity="0.4">
+    <animate attributeName="opacity" values="0.4;0.9;0.4" dur="2.5s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- name -->
+  <text x="500" y="120" text-anchor="middle" font-family="Segoe UI, Verdana, sans-serif" font-size="58" font-weight="800" fill="url(#textGrad)" filter="url(#glow)">
+    RASHID AHMAD
+  </text>
+
+  <!-- subtitle -->
+  <text x="500" y="165" text-anchor="middle" font-family="Consolas, monospace" font-size="21" fill="#e0e0ff" opacity="0.9">
+    Software Developer • Educational Technologist • Gold Medalist
+  </text>
+
+  <!-- underline pulse -->
+  <rect x="300" y="185" width="400" height="3" rx="2" fill="url(#textGrad)">
+    <animate attributeName="width" values="0;400;400" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="x" values="500;300;300" dur="2s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="500" y="225" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="16" fill="#a0a0d0">
+    Shangla, Khyber Pakhtunkhwa, Pakistan
+  </text>
+</svg>
