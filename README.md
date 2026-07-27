@@ -159,14 +159,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PashtunObserver&theme=redical&hide_border=true&bg_color=0d1117&color=ff6b6b&line=4ecdc4&point=ff9f43" />
 </p>
 
-<!-- 3D Contribution Graph -->
-<h2 align="center">
-  <b>🌐 3D Contribution Graph</b>
-</h2>
-
-<p align="center">
-  <img src="https://github.com/PashtunObserver/PashtunObserver/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
-</p>
 
 <!-- Animated Divider -->
 <p align="center">
