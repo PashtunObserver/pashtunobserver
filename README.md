@@ -149,34 +149,6 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
-<!-- GitHub Stats Section -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="35" />
-  <b>📊 GitHub Stats</b>
-</h2>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=PashtunObserver&show_icons=true&theme=radical&hide_border=true&border_radius=15&bg_color=0d1117&title_color=ff6b6b&icon_color=4ecdc4&text_color=c9d1d9" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PashtunObserver&layout=compact&theme=radical&hide_border=true&border_radius=15&bg_color=0d1117&title_color=ff6b6b&text_color=c9d1d9" />
-</p>
-
-<!-- GitHub Streak -->
-<h2 align="center">
-  <b>🔥 GitHub Streak</b>
-</h2>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=PashtunObserver&theme=radical&hide_border=true&border_radius=15&background=0d1117&stroke=ff6b6b&ring=ff6b6b&fire=ff9f43&currStreakNum=4ecdc4&sideNums=c9d1d9&currStreakLabel=ff6b6b&sideLabels=c9d1d9&dates=8b949e" />
-</p>
-
-<!-- GitHub Trophies -->
-<h2 align="center">
-  <b>🏆 GitHub Trophies</b>
-</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PashtunObserver&theme=radical&no-frame=true&no-bg=false&margin-w=15&margin-h=15&row=2&column=4" />
-</p>
 
 <!-- GitHub Metrics -->
 <h2 align="center">
@@ -203,89 +175,19 @@
 
 <!-- Dev Quote Section -->
 <h2 align="center">
-  <b>✨ Random Dev Quote</b>
+  <b>✨Dev Quote</b>
 </h2>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
-<!-- Joke Section -->
-<h2 align="center">
-  <b>😂 Dev Joke</b>
-</h2>
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" />
-</p>
 
 <!-- Animated Divider -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
-<!-- Snake Animation Section -->
-<h2 align="center">
-  <b>🐍 Contribution Snake</b>
-</h2>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PashtunObserver/PashtunObserver/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PashtunObserver/PashtunObserver/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/PashtunObserver/PashtunObserver/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
-<!-- Animated Divider -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</p>
-
-<!-- Spotify Section (Optional - Uncomment if you want) -->
-<!--
-<h2 align="center">
-  <b>🎵 Now Playing</b>
-</h2>
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false" />
-</p>
--->
-
-<!-- Connect Section -->
-<h2 align="center">
-  <b>📫 Let's Connect</b>
-</h2>
-
-<p align="center">
-  <table align="center">
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/📍_Shangla,_KPK,_Pakistan-ff6b6b?style=for-the-badge&labelColor=0d1117" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/💻_SST_(IT)_—_KP_Education-4ecdc4?style=for-the-badge&labelColor=0d1117" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🌱_EdTech_Enthusiast-ff9f43?style=for-the-badge&labelColor=0d1117" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🚀_Open_for_Collaboration-9b59b6?style=for-the-badge&labelColor=0d1117" />
-      </td>
-    </tr>
-  </table>
-</p>
-
-<!-- Profile Views Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PashtunObserver&label=👀+Profile+Views&color=ff6b6b&style=for-the-badge&labelColor=0d1117" />
-</p>
 
 <!-- Animated Footer -->
 <p align="center">
