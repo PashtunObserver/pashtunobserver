@@ -35,10 +35,8 @@
   </a>
 </p>
 
-<!-- Animated Divider -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</p>
+
+---
 
 <!-- About Me Section -->
 <h2 align="center">
@@ -66,10 +64,7 @@
   </tr>
 </table>
 
-<!-- Animated Divider -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</p>
+---
 
 <!-- Tech Stack Section -->
 <h2 align="center">
@@ -144,10 +139,7 @@
 
 </details>
 
-<!-- Animated Divider -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</p>
+---
 
 
 <!-- GitHub Metrics -->
@@ -160,10 +152,7 @@
 </p>
 
 
-<!-- Animated Divider -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</p>
+---
 
 <!-- Dev Quote Section -->
 <h2 align="center">
@@ -175,10 +164,7 @@
 </p>
 
 
-<!-- Animated Divider -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</p>
+---
 
 
 <!-- Animated Footer -->
